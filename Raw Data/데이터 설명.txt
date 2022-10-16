@@ -1,0 +1,26 @@
+=========
+폴더
+=========
+1. 2021 빅콘테스트_데이터분석분야_챔피언리그_스포츠테크_데이터_210803
+- 대회측에서 제공한 데이터
+
+
+
+=========
+파일
+=========
+1. data_0912_1.csv
+- <코드 ipynb> 폴더의 <04. Crawling and Modeling> 코드를 통해 생성되는 파일
+- 아래의 playerProfile.csv, playerProfile_statiz.csv, 경기일정.xlsx 데이터의 전처리를 통해 생성되는 파일
+
+2. KBO_MLB_타구분석.xlsx
+- 결과보고서에 있는 KBO와 MLB 타구 비교 분석에 사용한 데이터
+
+3. playerProfile.csv
+- <코드 ipynb> 폴더의 <04. Crawling and Modeling> 코드를 통해 생성되는 파일
+
+4. playerProfile_statiz.csv
+- <코드 ipynb> 폴더의 <04. Crawling and Modeling> 코드를 통해 생성되는 파일
+
+5. 경기일정.xlsx
+- <코드 ipynb> 폴더의 <04. Crawling and Modeling> 코드를 통해 생성되는 파일
