@@ -5,7 +5,8 @@
 > 코드 ipynb 설명서
 
 * 00.Setting.ipynb
-  + data 폴더(생성 데이터 저장 경로)생성
+
+  data 폴더(생성 데이터 저장 경로)생성
 
 * 01.TGS_BARREL_FINAL.ipynb
   + 본팀에서 정의한 배럴 타구와 배럴 타구를 기반으로 하는 파생변수를 만들고, 생성된 데이터를 data 폴더에 저장
