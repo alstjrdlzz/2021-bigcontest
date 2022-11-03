@@ -1,7 +1,7 @@
 # 2021 빅콘테스트 코드
 
 
-## 코드ipynb
+## 코드 ipynb
 #### 00.Setting.ipynb
 ##### :data 폴더(생성 데이터 저장 경로)생성
 #### 01.TGS_BARREL_FINAL.ipynb
