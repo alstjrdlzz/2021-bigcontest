@@ -4,7 +4,7 @@
 
 > 코드 ipynb 설명서
 
-* 00.Setting.ipynb
+> 00.Setting.ipynb
 * * data 폴더(생성 데이터 저장 경로)생성
 
 * 01.TGS_BARREL_FINAL.ipynb
